@@ -1,3 +1,7 @@
 #include <iostream>
 
-int main () { std::cout << "git-test\n"; return 0; }
+int main () { 
+	int i = 0;
+	std::cout << "git-test " << i << "\n";
+	return 0; 
+}
